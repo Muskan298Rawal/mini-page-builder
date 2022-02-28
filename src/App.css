@@ -1,0 +1,29 @@
+.rightSide{
+  background: #2d2d2d;
+  height: 100vh;
+}
+.leftSide{
+  height: 100vh;
+}
+.blocks{
+  color: white;
+  font-size: 18px;
+  margin: 13px;
+  font-weight: 500;
+}
+.input{
+  background: white;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.img_{
+  margin-right: 7px;
+  top: 3px;
+  position: relative;
+}
+.btn_save{
+  background-color: blue;
+  color: white
+}
